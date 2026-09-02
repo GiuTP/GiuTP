@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
-
 # 🚀 Hey, I'm Giuliano Tavares - Software Developer
 
 ## About Me
@@ -42,6 +38,6 @@
 [![LinkedIn](https://img.shields.io/badge/-Giuliano%20Tavares-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giuliano-tavares/)
 [![Instagram](https://img.shields.io/badge/-giuliano.thiago-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/giuliano.thiago)
 
-![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=giulianotpt&show_icons=true&rank_icon=percentile&theme=tokyonight)
+![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuTP&show_icons=true&rank_icon=percentile&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianotpt&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuTP&layout=compact&theme=tokyonight)
