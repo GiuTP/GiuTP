@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Giuliano Tavares - Software Developer
+# 🚀 Hey, I'm Giuliano Tavares
 
 ## About Me
 
