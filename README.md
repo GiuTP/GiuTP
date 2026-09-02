@@ -19,10 +19,13 @@
 <br clear="left"/>
 
 ---
-
+<!-- 
 ![Linguagens](github-metrics.svg)
 
 ---
+
+-->
+
 
 <!-- ## Tech Skills
 
