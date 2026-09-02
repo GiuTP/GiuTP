@@ -20,6 +20,10 @@
 
 ---
 
+![Linguagens](github-metrics.svg)
+
+---
+
 <!-- ## Tech Skills
 
 💻 Here are some of the technologies I work with:
