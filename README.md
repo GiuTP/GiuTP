@@ -13,7 +13,6 @@
 🤖 Built a personal finance bot for Telegram in `Go` — [Manii-Bot](https://github.com/GiuTP/Manii-Bot)
 
 [![Email](https://img.shields.io/badge/-giulianotpt@gmail.com-313131?style=flat&logo=Gmail&logoColor=white)](mailto:giulianotpt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-giuliano--tavares-313131?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giuliano-tavares/)
 [![Instagram](https://img.shields.io/badge/-giuliano.thiago-313131?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/giuliano.thiago)
 
 <br clear="left"/>
