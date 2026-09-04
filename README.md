@@ -4,7 +4,7 @@
 
 🎓 CS undergrad at **UFPR**
 
-🔬 Researcher at **HarmonIA lab** (linked to OBIA)
+🔬 Researcher at **HarmonIA** (linked to OBIA)
 
 ⚙️ Using `C`, `Go`, `C++`, `JS`, `TS`, `Java` and `Python`
 
