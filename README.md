@@ -10,7 +10,7 @@
 
 🔐 Currently studying **Cybersecurity**
 
-🤖 Built a personal finance bot for Telegram in `Go` — [Manii-Bot](https://github.com/GiuTP/Manii-Bot)
+🤖 Built a personal finance bot for Telegram in `Go` — [manii-bot](https://github.com/giutp/manii-bot)
 
 [![Email](https://img.shields.io/badge/-giulianotpt@gmail.com-313131?style=flat&logo=Gmail&logoColor=white)](mailto:giulianotpt@gmail.com)
 [![Instagram](https://img.shields.io/badge/-giuliano.thiago-313131?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/giuliano.thiago)
@@ -52,7 +52,7 @@
 
 🎨 Here are some of my personal projects:
 
-1. [Manii-Bot](https://github.com/GiuTP/Manii-Bot): A personal finance management bot built in **Go** for Telegram. Tracks income and expenses and gives a clear picture of your finances — right from your phone.
+1. [manii-bot](https://github.com/giutp/manii-bot): A personal finance management bot built in **Go** for Telegram. Tracks income and expenses and gives a clear picture of your finances — right from your phone.
 
 ---
  -->
